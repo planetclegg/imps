@@ -11,7 +11,8 @@ Index
 |---------------------|-------------------------------------------|-----------------|----------|--------|
 | [0010](imp-0010.md) | Public Object Access Protocol             | Gordon Hall     | Standard | Draft  |
 | [0011](imp-0011.md) | Broadcast Encryption and Group Access     | Gordon Hall     | Standard | Draft  |
-| [0012](imp-0012.md) | Capacity Donations                        | Gordon Hall     | Standard | Draft  |
+| [0012](imp-0012.md) | Capacity Donations to Trusted Identities  | Gordon Hall     | Standard | Draft  |
+| [0013](imp-0013.md) | Directory Consensus on Reputation         | Gordon Hall     | Standard | Draft  |
 
 
 License
